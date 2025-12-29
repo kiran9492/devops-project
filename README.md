@@ -1,5 +1,5 @@
 Feature branch update
-# DevOps Project – Git Best Practices
+# DevOps Project – Git 
 
 ## Objective
 Manage a DevOps project using Git and GitHub best practices.
